@@ -184,6 +184,5 @@ seaborn       >= 0.11
 
 ## 👤 Author
 
-**Your Name** 
-Francesco De Florence
+**Francesco De Florence** 
 Department of Electrical & Electronic Engineering  
