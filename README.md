@@ -1,4 +1,3 @@
-# AI-Based Fault Detection in Transmission Lines
 ### Smart Grid Fault Detection using Machine Learning
 
 ## Project Overview
