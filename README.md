@@ -1,12 +1,6 @@
 # AI-Based Fault Detection in Transmission Lines
 ### Smart Grid Fault Detection using Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.x-orange?style=for-the-badge&logo=scikit-learn)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-Ready-yellow?style=for-the-badge&logo=googlecolab)
-
----
-
 ## Project Overview
 
 This project implements an **AI-based fault detection system** for 3-phase electrical transmission lines using classical and modern machine learning techniques. The system can automatically classify five types of power system conditions — including three distinct fault types — from electrical measurements in **under 1 millisecond per sample**, making it suitable for real-time smart grid applications.
