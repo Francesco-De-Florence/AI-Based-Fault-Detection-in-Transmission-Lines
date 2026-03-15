@@ -1,4 +1,4 @@
-### Smart Grid Fault Detection using Machine Learning
+## Smart Grid Fault Detection using Machine Learning
 
 ## Project Overview
 
