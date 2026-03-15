@@ -17,7 +17,7 @@ This project implements an **AI-based fault detection system** for 3-phase elect
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Simulate realistic 3-phase transmission line fault data with engineered electrical features
 - Train and compare three ML classifiers: **Random Forest**, **SVM**, and **Neural Network**
